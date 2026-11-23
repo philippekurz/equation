@@ -1,0 +1,10 @@
+Debut
+    Saisie de a, b, c
+    Calculer d = b2-4ac
+    Si d > 0
+        ....
+    Sinon, si d < 0
+        ....
+    Sinon (d=0)
+        ....
+    FinSi
